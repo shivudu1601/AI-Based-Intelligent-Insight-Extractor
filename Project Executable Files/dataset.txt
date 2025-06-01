@@ -1,0 +1,10 @@
+Artificial neural networks are the brains behind some of the most sophisticated applications of artificial intelligence (AI). But that doesn't mean understanding the different types needs to be complicated. When it comes to artificial neural networks — computing systems that mimic components of the brain — there are serious differences in type. Understanding these distinctive forms, and their nuances and varied applications, could make the difference between success and failure in your next AI and machine learning initiative.
+
+In machine learning, each type of artificial neural network is tailored to perform certain sets of tasks. In order to explain these tasks and the best approaches to completing them, this article will introduce two types of artificial neural networks: convolutional neural networks (CNNs) and recurrent neural networks (RNNs). Read on to learn about both types, associated key terms and the real-life applications deployed today, particularly in computer vision.
+
+What's the difference between CNN and RNN?
+The main difference between a CNN and an RNN is the ability to process temporal information — data that comes in sequences, such as a sentence. Recurrent neural networks are designed for this very purpose, while convolutional neural networks are incapable of effectively interpreting temporal information. As a result, CNNs and RNNs are used for completely distinct purposes, and there are differences in the structures of the neural networks themselves to fit those different use cases.
+
+CNNs employ filters within convolutional layers to transform data (more on that later), whereas RNNs are predictive, reusing activation functions from other data points in the sequence to generate the next output in a series.
+
+Once you look at the structure of both types of neural networks and understand what they are used for, the difference between CNN and RNN becomes more clear.
